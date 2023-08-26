@@ -1,0 +1,15 @@
+/home/awwal/Documents/MGQS_Projects/myFirstProject/MyApp/bin/Debug/net7.0/MyApp
+/home/awwal/Documents/MGQS_Projects/myFirstProject/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/home/awwal/Documents/MGQS_Projects/myFirstProject/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/home/awwal/Documents/MGQS_Projects/myFirstProject/MyApp/bin/Debug/net7.0/MyApp.dll
+/home/awwal/Documents/MGQS_Projects/myFirstProject/MyApp/bin/Debug/net7.0/MyApp.pdb
+/home/awwal/Documents/MGQS_Projects/myFirstProject/MyApp/obj/Debug/net7.0/MyApp.csproj.AssemblyReference.cache
+/home/awwal/Documents/MGQS_Projects/myFirstProject/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/awwal/Documents/MGQS_Projects/myFirstProject/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/home/awwal/Documents/MGQS_Projects/myFirstProject/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/home/awwal/Documents/MGQS_Projects/myFirstProject/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/home/awwal/Documents/MGQS_Projects/myFirstProject/MyApp/obj/Debug/net7.0/MyApp.dll
+/home/awwal/Documents/MGQS_Projects/myFirstProject/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/home/awwal/Documents/MGQS_Projects/myFirstProject/MyApp/obj/Debug/net7.0/MyApp.pdb
+/home/awwal/Documents/MGQS_Projects/myFirstProject/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/home/awwal/Documents/MGQS_Projects/myFirstProject/MyApp/obj/Debug/net7.0/ref/MyApp.dll
