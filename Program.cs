@@ -6,9 +6,10 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("{0}-{1}", byte.MinValue, byte.MaxValue);
-            System.Console.WriteLine("{0} {1}", float.MinValue, float.MaxValue);
-            System.Console.WriteLine("{0} {1}", int.MinValue, int.MaxValue);
+           int i =1;
+           byte b = (byte)i;
+           System.Console.WriteLine(b);
+    
         }
     }
 }
