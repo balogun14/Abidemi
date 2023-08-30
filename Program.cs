@@ -6,10 +6,14 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-           int i =1;
-           byte b = (byte)i;
-           System.Console.WriteLine(b);
-    
+            /*
+            This is me practicing Arithimetics operations
+            */
+            int a = 2;
+            int b = 3;
+            int c = 4;
+            System.Console.WriteLine(a + b - c);
+
         }
     }
 }
